@@ -1,4 +1,12 @@
 
+### Derleme
+- Kaynak Kodu
+- Derlenerek obje dosyasına dönüştürülür
+- Obje dosyaları Linker ile birleştirilir
+- Çalıştırılabilir dosyalara dönüştürülür
+
+
+
 ### Rust Uygulaması Çalıştırma main() fonksiyonu
 - her çalıştırılabilir Rust programı main fonksiyonundan başlar.
 - Bu, C/C++/Go gibi dillerle aynı gelenektir. Ama Rust'a özgü bazı detaylar var.
