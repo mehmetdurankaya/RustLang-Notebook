@@ -20,3 +20,13 @@
 |[Yorumlar](notebook/temeller/5-Yorumlar.md)	|//, /* */, /// (dokümantasyon)
 |[Alıştırma]() |Basit hesap makinesi, FizzBuzz, asal sayı bulucu
 
+# Sahiplik (Ownership)
+|Konu	|
+|-------|
+|[Stack vs Heap kavramı](notebook/Sahiplik-Ownership/1-stack-heap.md)|
+|[Ownership Kuralları 3 Kural](notebook/Sahiplik-Ownership/2-ownership.md)|
+|[Move, Copy, Clone Semantiği](notebook/Sahiplik-Ownership/2-ownership.md)|
+|[Borrowing (&ve &mut)](notebook/Sahiplik-Ownership/3-Borrowing.md)|
+|[Referans Kuralları](notebook/Sahiplik-Ownership/3-Borrowing.md)|
+|[Lifetime ('a)](notebook/Sahiplik-Ownership/3-Borrowing.md)|
+|[Slices (&str, &[T])](notebook/Sahiplik-Ownership/3-Borrowing.md)|

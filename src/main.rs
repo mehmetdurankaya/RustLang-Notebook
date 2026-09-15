@@ -1,5 +1,8 @@
+use crate::enums::enums;
+
 mod hesap_makinesi;
 mod fizz_buzz;
+mod enums;
 
 fn main(){
     let topla = hesap_makinesi::topla(10,5);
@@ -9,4 +12,6 @@ fn main(){
     println!("toplama sonucu: {} çıkarma sonucu {} çarpma sonucu {} bölme sonucu {}" , topla, cikar, carp, bol);
 
     let fizz_buzz = fizz_buzz::fizz_buzz();
+
+    enums();
 }
